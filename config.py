@@ -8,8 +8,8 @@ class Config(object):
     # get a token from @BotFather
     pass
     """
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7034696926:AAEqmYGF_YWcaUZO61f-paTx_WgjFjs73LY")
-    API_ID = int(os.environ["API_ID", 24932120]
-    API_HASH = os.environ["API_HASH", "b16b8704b5c839ed24f4ed5824978a3b"]
-    AUTH_USERS = "7045457279"""
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6813002878:AAGQoWGxYH2WOUjaM6EvuPGveiFXaMDwu5Q")
+    API_ID = int(os.environ["API_ID", 24119778]
+    API_HASH = os.environ["API_HASH", "cca11ca97dd8683d65ca1beb62baceb1"]
+    AUTH_USERS = "7171191819"""
 
